@@ -1,4 +1,3 @@
-```py
 
 import random
 import nltk.corpus
@@ -29,4 +28,3 @@ def start_game():
 while True:
     start_game()
 
-```
